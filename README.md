@@ -110,7 +110,7 @@ Testable via Postman or directly from the Streamlit frontend.
 
 ## ✉️ Contact
 
-For questions or suggestions, open an issue or contact at [snsupratim@gmail.com](snsupratim@gmail.com).
+For questions or suggestions, open an issue or contact at [snsupratim@gmail.com]
 
 ---
 
