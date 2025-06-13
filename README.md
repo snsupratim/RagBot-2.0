@@ -63,7 +63,7 @@ Retrieval-Augmented Generation (RAG) enhances LLMs by injecting external knowled
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/snsupratim/ragbot.git
+git clone https://github.com/snsupratim/RagBot-2.0.git
 cd ragbot
 ```
 
