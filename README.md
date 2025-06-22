@@ -63,8 +63,8 @@ Retrieval-Augmented Generation (RAG) enhances LLMs by injecting external knowled
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/snsupratim/ragbot.git
-cd ragbot
+git clone https://github.com/snsupratim/RagBot-2.0.git
+cd RagBot-2.0
 ```
 
 ### 2. Setup the Backend (FastAPI)
@@ -75,8 +75,8 @@ python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
 pip install -r requirements.txt
 
-# Set your Groq API Key
-echo "GROQ_API_KEY=your_key_here" > .env
+# Set your Groq API Key (.env)
+GROQ_API_KEY="your_key_here"
 
 # Run the FastAPI server
 uvicorn main:app --reload
