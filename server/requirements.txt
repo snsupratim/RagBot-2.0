@@ -1,6 +1,7 @@
 # Web Framework
 fastapi
 uvicorn[standard]
+python-multipart
 
 # LangChain & Ecosystem
 langchain
@@ -35,5 +36,7 @@ aiofiles
 
 # Process
 tqdm
+
+
 
 # pip install -r requirements.txt
