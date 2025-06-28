@@ -9,10 +9,13 @@ langchain-core
 langchain-groq
 
 # Vectorstore
-chromadb
+# chromadb
+pinecone
 
 # Embeddings
-sentence-transformers
+# sentence-transformers
+langchain-google-generative-ai
+langchain-google-genai
 
 # PDF Parsing
 PyPDF  # backend for PyPDFLoader via langchain_community
