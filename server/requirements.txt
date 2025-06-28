@@ -14,7 +14,7 @@ pinecone
 
 # Embeddings
 # sentence-transformers
-langchain-google-generative-ai
+# langchain-google-generative-ai
 langchain-google-genai
 
 # PDF Parsing
