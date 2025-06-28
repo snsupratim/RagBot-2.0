@@ -33,6 +33,7 @@ loguru
 # File Uploads
 aiofiles
 
-
+# Process
+tqdm
 
 # pip install -r requirements.txt
